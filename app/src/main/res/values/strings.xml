@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">REST CLIENT</string>
+    <string-array name="request_type_arrays">
+       <item>POST</item>
+       <item>GET</item>
+       <item>PUT</item>
+       <item>DELETE</item>
+       <item>HEAD</item>
+       <item>OPTIONS</item>
+    </string-array>
+    <string name="hint_key">key</string>
+    <string name="hint_value">value</string>
+    <string name="hint_header_key">header_key</string>
+    <string name="hint_header_value">header_value</string>
+    <string name="clear_url">CLEAR URL</string>
+    <string name="type">TYPE:</string>
+    <string name="url">URL:</string>
+    <string name="url_hint">http://... or https://... format</string>
+    <string name="parameters">PARAMETERS</string>
+    <string name="headers">HEADERS</string>
+    <string name="authorization_basic">Authorization basic</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="clear_parameters">CLEAR PARAMETERS</string>
+    <string name="clear_headers">CLEAR HEADERS</string>
+    <string name="submit">SUBMIT</string>
+</resources>
